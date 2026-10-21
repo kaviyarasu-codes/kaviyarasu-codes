@@ -11,11 +11,11 @@ I build websites, web apps and Android apps — and ship them live.
 
 ### 🛠️ Tech I use
 
-**Frontend:** HTML · CSS · JavaScript · Next.js (React) · Bootstrap
-**Backend:** Python · Django · NestJS (Node.js) · TypeScript · Prisma · PHP · REST APIs · JWT
-**Mobile:** React Native · Expo · Google Play Console · AdMob
-**Data:** PostgreSQL · MySQL · Firebase Firestore · Supabase · Redis
-**Deploy:** Docker Compose · Hostinger VPS · Vercel · Cloudflare Pages · GitHub Pages
+- **Frontend:** HTML · CSS · JavaScript · Next.js (React) · Bootstrap
+- **Backend:** Python · Django · NestJS (Node.js) · TypeScript · Prisma · PHP · REST APIs · JWT
+- **Mobile:** React Native · Expo · Google Play Console · AdMob
+- **Data:** PostgreSQL · MySQL · Firebase Firestore · Supabase · Redis
+- **Deploy:** Docker Compose · Hostinger VPS · Vercel · Cloudflare Pages · GitHub Pages
 
 ### 📌 Featured repos
 
